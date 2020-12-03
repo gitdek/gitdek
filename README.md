@@ -2,6 +2,8 @@
 
 📫 How to reach me: dek@whilefalsedo.com
 
+💬 Most of my projects cannot be public, so most of the things I put up are for fun only.
+
 <!--
 **gitdek/gitdek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
